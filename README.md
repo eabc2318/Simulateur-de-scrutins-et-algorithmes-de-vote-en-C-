@@ -14,7 +14,7 @@ Projet académique réalisé dans le cadre de la **SAE 1.02 (Comparaison d'appro
 - **Ayoub HSSINI** (`bouyaninho@gmail.com`)
 - **Adam MANKAI** (`mankaiadam145@gmail.com`)
 - **Mathias MALLET** (`mathias.m2502@gmail.com`)
-- **Aurèle JAMBERT** (`aurele.jambert0@gmail.com`)
+- **Aurèle JAMBERT** (`INDISPONIBLE`)
 
 ---
 
